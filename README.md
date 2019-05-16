@@ -1,4 +1,5 @@
-# Introduction to Python
+# Introduction to Python an json
 Introduction to basic python, pandas and json parsing
+
 ## Author
-Kevin
+Kevin Engel
